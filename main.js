@@ -2,10 +2,10 @@ lipsX = 0;
 lipsY = 0;
 
 function preload(){
-    red_lips = loadImage("file:///D:/coding/Coding%20Files/Projects/P-114/Red_lips.png");
-    pink_lips = loadImage("file:///D:/coding/Coding%20Files/Projects/P-114/Pink_lips.png");
-    purple_lips = loadImage("file:///D:/coding/Coding%20Files/Projects/P-114/Purple_lips.png");
-    blue_lips = loadImage("file:///D:/coding/Coding%20Files/Projects/P-114/Blue_lips.png");
+    red_lips = loadImage("Red_lips.png");
+    pink_lips = loadImage("Pink_lips.png");
+    purple_lips = loadImage("Purple_lips.jpg");
+    blue_lips = loadImage("Blue_lips.jpg");
 }
 
 function setup(){
